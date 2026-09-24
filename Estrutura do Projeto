@@ -1,0 +1,12 @@
+chatbot-support/
+ ├── src/
+ │    └── chatbot.py
+ ├── tests/
+ │    └── test_chatbot.py
+ ├── .github/
+ │    └── workflows/
+ │         └── python-app.yml
+ ├── README.md
+ ├── LICENSE
+ ├── CONTRIBUTING.md
+ └── CODE_OF_CONDUCT.md
