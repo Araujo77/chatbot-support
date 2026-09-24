@@ -1,0 +1,5 @@
+from chatbot import ChatBot
+
+bot = ChatBot()
+print(bot.respond("Olá"))
+print(bot.respond("Quais são os horários de atendimento?"))
